@@ -12,6 +12,7 @@ public class Calculator {
         this.firstOperand = firstOperand;
     }
 
+    // this code is added by tuba0001
     public double getSecondOperand() {
         return secondOperand;
     }
